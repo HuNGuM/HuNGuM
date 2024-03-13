@@ -1,7 +1,7 @@
 Hi 👋 My name is Uladzimir Liaichonak
 =====================================
 
-Backend Java intern
+Backend Java Developer
 -------------------
 
 I'm currently studying in Wrocław University of Science and Technology in the field of Applied Computer Science. I'm looking for a free internship to improve my programming skills🤝
