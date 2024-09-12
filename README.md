@@ -8,7 +8,7 @@ I'm currently studying at Wrocław University of Science and Technology in the f
 
 * 🌍  I'm based in Wrocław, Poland
 * ✉️  You can contact me at [leichenok.vova@yandex.by](mailto:leichenok.vova@yandex.by)
-* 🚀  I'm currently working on [SpaceInvaders.app](http://https://github.com/HuNGuM/SpaceInvaders2.0)
+* 🚀  I'm currently working on [LudumCore.app](https://github.com/DmitryIvanovDeveloper/LudumCore.git)
 * 🧠  I'm learning Duke University Data Structures and Performance course
 * 🤝  I'm open to collaborating on IT companies offering internships
 
