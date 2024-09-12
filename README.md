@@ -4,7 +4,7 @@ Hi 👋 My name is Uladzimir Liaichonak
 Backend Java Developer
 -------------------
 
-I'm currently studying in Wrocław University of Science and Technology in the field of Applied Computer Science. I'm looking for a free internship to improve my programming skills🤝
+I'm currently studying at Wrocław University of Science and Technology in the field of Applied Computer Science. I'm looking for interesting projects to improve my programming skills🤝
 
 * 🌍  I'm based in Wrocław, Poland
 * ✉️  You can contact me at [leichenok.vova@yandex.by](mailto:leichenok.vova@yandex.by)
