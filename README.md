@@ -7,10 +7,10 @@ Backend Java Developer
 I'm currently studying at Wrocław University of Science and Technology in the field of Applied Computer Science. I'm looking for interesting projects to improve my programming skills🤝
 
 * 🌍  I'm based in Wrocław, Poland
-* ✉️  You can contact me at [leichenok.vova@yandex.by](mailto:leichenok.vova@yandex.by)
+* ✉️  You can contact me at [duogame232@gmail.com](mailto:duogame232@gmail.com)
 * 🚀  I'm currently working on [LudumCore.app](https://github.com/DmitryIvanovDeveloper/LudumCore.git)
 * 🧠  I'm learning Duke University Data Structures and Performance course
-* 🤝  I'm open to collaborating on IT companies offering internships
+* 🤝  I'm open to collaborating on IT companies/start-ups and open-source projects
 
 ### Skills
 
