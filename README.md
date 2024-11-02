@@ -6,7 +6,7 @@ Backend Java Developer
 I'm currently studying at Wrocław University of Science and Technology in the field of Applied Computer Science. I'm looking for interesting projects to improve my programming skills🤝
 
 * 🌍  I'm based in Wrocław, Poland
-* ✉️  You can contact me at [duogame232@gmail.com](mailto:uladzimir.liaichonak@gmail.com)
+* ✉️  You can contact me at [uladzimir.liaichonak@gmail.com](mailto:uladzimir.liaichonak@gmail.com)
 * 🚀  I'm currently working on [LudumCore.app](https://github.com/DmitryIvanovDeveloper/LudumCore.git)
 * 🧠  I'm learning Duke University Data Structures and Performance course
 * 🤝  I'm open to collaborating on IT companies/start-ups and open-source projects
@@ -40,3 +40,4 @@ I'm currently studying at Wrocław University of Science and Technology in the f
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuNGuM&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuNGuM&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuNGuM&theme=default&utcOffset=8)
+![GitHub commit activity](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
