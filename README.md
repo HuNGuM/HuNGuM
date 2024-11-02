@@ -39,4 +39,3 @@ I'm currently studying at Wrocław University of Science and Technology in the f
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuNGuM&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuNGuM&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HuNGuM&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HuNGuM&theme=default&utcOffset=8)
